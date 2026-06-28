@@ -1,5 +1,8 @@
 # AquaCore Dashboard
 
+Projeto desenvolvido para Projeto Final Mentoria Huawei 2026.
+Equipe: Ana Maria, Beatriz Damasceno, Samile Barreto
+
 Dashboard React do AquaCore com múltiplas páginas e API local em Python + SQLite.
 
 ## Rodar a API local
